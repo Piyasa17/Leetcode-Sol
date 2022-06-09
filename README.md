@@ -23,7 +23,6 @@ CSE Student || Learner || Coding Enthusiast...☕
 |  Name | Dificulty     |   Solution                |
 | :-------- | :------- | :------------------------- |
 | 1.Two sum | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/1.cpp] |
-|reverse ll|`medium`|```link```|
 
 
 
