@@ -28,7 +28,7 @@ CSE Student || Learner || Coding Enthusiast...☕
 
 
 ## 🛠 Skills
-Data Structures, Algoriths, C++...
+`Data Structures`, `Algoriths`, `C++`...
 
 
 ## Badges
