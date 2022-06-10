@@ -23,7 +23,7 @@ CSE Student || Learner || Coding Enthusiast...☕
 |  Name | Dificulty     |   Solution                |
 | :-------- | :------- | :------------------------- |
 | 1.Two sum | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/1.cpp] |
-| 3. Longest Substring Without Repeating Characters | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/Longest_Substring_Without_Repeating_Characters.cpp] |
+| 3. Longest Substring Without Repeating Characters | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/3.cpp] |
 
 
 
