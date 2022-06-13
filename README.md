@@ -26,6 +26,7 @@ CSE Student || Learner || Coding Enthusiast...☕
 | 3. Longest Substring Without Repeating Characters | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/3.cpp] |
 | 20. Valid Parentheses | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/20.cpp] |
 | 21. Merge Two Sorted Lists | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/21.cpp] |
+| 33. Search in Rotated Sorted Array | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/33.cpp] |
 
 
 
