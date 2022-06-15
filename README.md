@@ -28,6 +28,7 @@ CSE Student || Learner || Coding Enthusiast...☕
 | 21. Merge Two Sorted Lists | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/21.cpp] |
 | 33. Search in Rotated Sorted Array | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/33.cpp] |
 | 69. Sqrt(x) | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/69.cpp] |
+| 48. Rotate Image | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/48.cpp] |
 
 
 
