@@ -32,6 +32,7 @@ CSE Student || Learner || Coding Enthusiast...☕
 | 1859. Sorting the Sentence | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/1859.cpp] |
 | 229. Majority Element II | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/229.cpp] |
 | 8. String to Integer (atoi) | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/8.cpp] |
+| 7. Reverse Integer | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/7.cpp] |
 
 
 
