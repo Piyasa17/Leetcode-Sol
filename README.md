@@ -36,6 +36,7 @@ CSE Student || Learner || Coding Enthusiast...☕
 | 100. Same Tree | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/100.cpp] |
 | 167. Two Sum II - Input Array Is Sorted | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/167.cpp] |
 | 67. Add Binary | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/67.cpp] |
+| 15. 3Sum | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/15.cpp] |
 
 
 
