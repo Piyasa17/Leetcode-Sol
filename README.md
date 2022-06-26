@@ -38,6 +38,7 @@ CSE Student || Learner || Coding Enthusiast...☕
 | 67. Add Binary | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/67.cpp] |
 | 15. 3Sum | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/15.cpp] |
 | 151. Reverse Words in a String | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/151.cpp] |
+| 1423. Maximum Points You Can Obtain from Cards | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/1423.cpp] |
 
 
 
