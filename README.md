@@ -42,6 +42,7 @@ CSE Student || Learner || Coding Enthusiast...☕
 | 24. Swap Nodes in Pairs | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/24.cpp] |
 | 150. Evaluate Reverse Polish Notation | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/150.cpp] |
 | 1710. Maximum Units on a Truck | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/1710.cpp] |
+| 92. Reverse Linked List II | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/92.cpp] |
 
 
 
