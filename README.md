@@ -43,6 +43,7 @@ CSE Student || Learner || Coding Enthusiast...☕
 | 150. Evaluate Reverse Polish Notation | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/150.cpp] |
 | 1710. Maximum Units on a Truck | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/1710.cpp] |
 | 92. Reverse Linked List II | `Medium` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/92.cpp] |
+| 1886. Determine Whether Matrix Can Be Obtained By Rotation | `Easy` | [https://github.com/Piyasa17/Leetcode-Sol/blob/main/1886.cpp] |
 
 
 
